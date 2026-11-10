@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+   
+  <html>
+
+     <head>
+
+             <meta charset = "utf - 8">
+               
+             <title>Text Elements</title>
+
+     </head>
+
+<body>
+
+         <h1>Main Title</h1>
+          
+         <h2>Sub Title</h2>
+          
+         <h3>Chapter Title</h3>
+          
+         <h4></h4>
+         
+         <h5></h5>
+
+         <h6></h6>
+
+       <p> Web design is hands down the best class you can take because it perfectly blends creativity with practical, real-world skills. Unlike traditional subjects that rely on heavy memorization, this course lets you build tangible projects from scratch and watch your code come to life on the screen. It teaches you how to think both like an artist and a problem solver as you master layout, color theory, and user experience.
+         
+  </body>
+
+</html>
+
+         
